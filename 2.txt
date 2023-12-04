@@ -1,2 +1,3 @@
 2.txt after commit
 ------------------------------Commit Area----
+my staging area
