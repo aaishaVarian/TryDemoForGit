@@ -2,3 +2,4 @@
 ------------------------------Commit Area----
 my staging area
 my staging area2
+update from remote master
